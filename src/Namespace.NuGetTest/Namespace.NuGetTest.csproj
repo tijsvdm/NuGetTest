@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.0.1</Version>
+    <Authors>The Author.</Authors>
+    <Company>The Company.</Company>
+    <Description>The NuGet Test package.</Description>
+    <Copyright>Copyright (c) 2019 The Company.</Copyright>
+    <RepositoryUrl>https://github.com/tijsvdm/NuGetTest</RepositoryUrl>
+    <PackageTags>Test, NuGet</PackageTags>
+  </PropertyGroup>
+</Project>
